@@ -1,0 +1,14 @@
+{
+    "Items": {
+        "LGPBSV": {
+            "name": "apple",
+            "type": "fruit",
+            "price": 2.0
+        },
+        "DWMRRD": {
+            "name": "pineapple",
+            "type": "fruit",
+            "price": 2.0
+        }
+    }
+}

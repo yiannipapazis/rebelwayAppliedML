@@ -1,0 +1,50 @@
+{
+    "Books": {
+        "PVWXDG": {
+            "name": "Test Book",
+            "author": "Test Author",
+            "type": "Test Type",
+            "pages": 10
+        },
+        "NQFEZV": {
+            "name": "Harry Potter",
+            "author": "J.K. Rowling",
+            "type": "Fantasy",
+            "pages": 300
+        },
+        "YCLLGB": {
+            "name": "Dune",
+            "author": "Frank Herbert",
+            "type": "Science Fiction",
+            "pages": 400
+        }
+    },
+    "Quantities": {
+        "PVWXDG": 60,
+        "NQFEZV": 3,
+        "YCLLGB": 12
+    },
+    "Accounts": {
+        "XVQMMT": {
+            "name": "John Smith",
+            "email": "john.smith@gmail.com",
+            "books_borrowed_ids": []
+        },
+        "KZKBNE": {
+            "name": "Jane Doe",
+            "email": "jane.doe@gmail.com",
+            "books_borrowed_ids": [
+                "NQFEZV",
+                "NQFEZV",
+                "NQFEZV",
+                "NQFEZV",
+                "NQFEZV",
+                "NQFEZV",
+                "NQFEZV",
+                "NQFEZV",
+                "NQFEZV",
+                "NQFEZV"
+            ]
+        }
+    }
+}

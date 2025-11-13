@@ -1,0 +1,65 @@
+{
+    "Books": {
+        "FXALMR": {
+            "name": "Harry Potter",
+            "author": "J.K. Rowling",
+            "type": "Fantasy",
+            "pages": 300
+        },
+        "VMKDLV": {
+            "name": "The Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "type": "Fantasy",
+            "pages": 400
+        },
+        "NVWNGS": {
+            "name": "The Twilight Saga",
+            "author": "Stephenie Meyer",
+            "type": "Fantasy",
+            "pages": 250
+        },
+        "OCSZFM": {
+            "name": "The Hunger Games",
+            "author": "Suzanne Collins",
+            "type": "Science Fiction",
+            "pages": 350
+        },
+        "EAUJQG": {
+            "name": "Dune",
+            "author": "Frank Herbert",
+            "type": "Science Fiction",
+            "pages": 450
+        }
+    },
+    "Quantities": {
+        "FXALMR": 10,
+        "VMKDLV": 4,
+        "NVWNGS": 8,
+        "OCSZFM": 12,
+        "EAUJQG": 7
+    },
+    "Accounts": {
+        "SXYKGA": {
+            "name": "John Smith",
+            "email": "john.smith@gmail.com",
+            "books_borrowed_ids": []
+        },
+        "RKBLNP": {
+            "name": "Jane Doe",
+            "email": "jane.doe@gmail.com",
+            "books_borrowed_ids": []
+        },
+        "TEVOVT": {
+            "name": "Bob Johnson",
+            "email": "bob.johnson@gmail.com",
+            "books_borrowed_ids": [
+                "VMKDLV"
+            ]
+        },
+        "YLZUFQ": {
+            "name": "Mary Brown",
+            "email": "mary.brown@gmail.com",
+            "books_borrowed_ids": []
+        }
+    }
+}

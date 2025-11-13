@@ -1,0 +1,84 @@
+{
+    "Items": {
+        "GRNPL": {
+            "name": "Green Apple",
+            "type": "Fruit",
+            "price": 0.5
+        },
+        "RDAPL": {
+            "name": "Red Apple",
+            "type": "Fruit",
+            "price": 0.6
+        },
+        "BNANA": {
+            "name": "Banana",
+            "type": "Fruit",
+            "price": 0.3
+        },
+        "BRDWH": {
+            "name": "White Bread",
+            "type": "Bakery",
+            "price": 2.5
+        },
+        "GSTXKP": {
+            "name": "Onion",
+            "type": "Vegetable",
+            "price": 1.99
+        },
+        "AFIINB": {
+            "name": "Onion",
+            "type": "Vegetable",
+            "price": 1.99
+        },
+        "XMUGQO": {
+            "name": "Onion",
+            "type": "Vegetable",
+            "price": 1.99
+        },
+        "RXWHXU": {
+            "name": "Onion",
+            "type": "Vegetable",
+            "price": 1.99
+        },
+        "RQALZC": {
+            "name": "Onion",
+            "type": "Vegetable",
+            "price": 1.99
+        },
+        "FCNJSN": {
+            "name": "Onion",
+            "type": "Vegetable",
+            "price": 1.99
+        },
+        "JSLBZS": {
+            "name": "Onion",
+            "type": "Vegetable",
+            "price": 1.99
+        },
+        "JCAICN": {
+            "name": "Onion",
+            "type": "Vegetable",
+            "price": 1.99
+        },
+        "ILVBXW": {
+            "name": "Onion",
+            "type": "Vegetable",
+            "price": 1.99
+        },
+        "OOVMES": {
+            "name": "Onion",
+            "type": "Vegetable",
+            "price": 1.99
+        },
+        "MSLZBY": {
+            "name": "Onion",
+            "type": "Vegetable",
+            "price": 1.99
+        },
+        "TZXSDO": {
+            "name": "Onion",
+            "type": "Vegetable",
+            "price": 1.99
+        }
+    }
+}
